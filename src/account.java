@@ -126,7 +126,7 @@ public class account extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton2ActionPerformed
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
-        t1.setText("Name: Aditya Srivastava\n UserName: aditya\n Account Number :"+payment.c);
+        t1.setText("Name: Ayush Malviya\n UserName: ayush\n Account Number :"+payment.c);
         
         
     }//GEN-LAST:event_jButton3ActionPerformed
